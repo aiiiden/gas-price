@@ -1,1 +1,1 @@
-export { default } from "@/features/gas/pages/GasPage";
+export { default } from "@/features/bulletin/pages/BulletinBoardPage";
