@@ -1,1 +1,1 @@
-export { default, getServerSideProps } from "@/features/test/pages/HelloPage";
+export { default } from "@/features/gas/pages/GasPage";

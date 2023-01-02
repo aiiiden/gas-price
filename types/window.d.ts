@@ -1,7 +1,7 @@
 declare global {
-  interface Window {
-    // foo: string;
-  }
+    interface Window {
+        ethereum: any;
+    }
 }
 
-// export const foo = window.foo
+export const ethereum = window.ethereum;
